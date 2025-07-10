@@ -1,0 +1,34 @@
+Senin, 23 Juni 2025
+Bootcamp : Final Project
+Create a simple resume for these two topics:
+A. Version Control System
+B. Scrum vs Kanban
+
+Resume Singkat
+
+A. Version Control System (VCS)
+- Definisi: Version Control System (VCS) adalah perangkat lunak yang digunakan untuk mengelola perubahan pada kode sumber atau dokumen secara terstruktur dan terorganisir.
+- Fungsi Utama: (1). Melacak setiap perubahan yang dilakukan pada file. (2). Memungkinkan kolaborasi tim dalam mengembangkan proyek secara bersamaan. (3). Memudahkan rollback ke versi sebelumnya jika terjadi kesalahan.
+- Jenis VCS: (1). Centralized VCS (misal: Subversion/SVN). (2). Distributed VCS (misal: Git, Mercurial).
+- Manfaat: (1). Menghindari konflik saat bekerja dalam tim. (2). Menyimpan riwayat perubahan sebagai dokumentasi. (3). Mempermudah pengelolaan rilis dan pengembangan fitur baru.
+
+B. Scrum vs Kanban
+- Aspek: Scrum
+- Definisi: Kerangka kerja Agile berbasis sprint terstruktur.
+- Struktur:	Sprint tetap (biasanya 2–4 minggu).
+- Peran: Ada peran khusus: Scrum Master, Product Owner, Tim Pengembang.
+- Perubahan: Perubahan dibatasi selama sprint.
+- Visualisasi: Menggunakan papan tugas sprint.
+- Fokus: Penyelesaian backlog dalam sprint.
+
+- Aspek: Kanban
+- Definisi: Metode visualisasi kerja berbasis papan tugas.
+- Struktur: Tidak ada sprint, alur kerja kontinu.
+- Peran: Tidak ada peran khusus yang wajib.
+- Perubahan: Perubahan bisa dilakukan kapan saja. 
+- Visualisasi: Menggunakan papan Kanban dengan kolom proses. 
+- Fokus: Pengaturan Work In Progress (WIP).
+
+- Kesimpulan:
+Scrum cocok untuk tim yang membutuhkan struktur, perencanaan terjadwal, dan iterasi tetap.
+Kanban lebih fleksibel, cocok untuk pekerjaan yang membutuhkan alur kerja berkelanjutan dan adaptasi cepat terhadap perubahan.
